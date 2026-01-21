@@ -11,7 +11,7 @@ The intercept course it found using functions of time for both the interceptor a
 There are two models in the repository. One is a single model graph, where i was originaly tested my equations. The other is the full model. 
 ## Demo
 
-Insert gif or link to demo
+![ModelPreview](https://github.com/user-attachments/assets/f06076e1-55af-4748-9380-efc771cddb13)
 
 
 ## Lessons Learned
